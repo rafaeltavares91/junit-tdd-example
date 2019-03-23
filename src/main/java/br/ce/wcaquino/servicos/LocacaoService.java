@@ -90,13 +90,4 @@ public class LocacaoService {
 		return percentual;
 	}
 	
-	public void setLocacaoDAO(LocacaoDAO dao) {
-		this.dao = dao;
-	}
-	
-	public void setSPCService(SPCService spc) {
-		spcService = spc;
-	}
-	
-	
 }
